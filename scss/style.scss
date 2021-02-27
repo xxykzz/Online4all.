@@ -1,0 +1,53 @@
+$font: 'Raleway', sans-serif;
+
+* {
+    font-family: $font !important;
+}
+
+.jumbotron{
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.introduction{
+    text-align: center !important;
+    align-items: center !important;
+}
+
+.cardsOne{
+    display: inline-block !important;
+    margin-top: 2em !important;
+    margin-right: 4em !important;
+    margin-bottom: 2em !important;
+}
+
+.cardsContainer{
+    text-align: center !important;
+    align-items: center !important;
+}
+
+
+.card {
+    border-radius:0;
+    margin:10px auto;
+}
+.card-title {
+	text-transform: uppercase;
+	color: #E44424;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

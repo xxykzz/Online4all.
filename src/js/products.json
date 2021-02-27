@@ -1,0 +1,28 @@
+ [
+    {   
+        "nombre": "Maquetacion web",
+        "precio": 1200,
+        "categoria": "Desarrollo web"
+    },
+    {
+        "nombre": "Javascript",
+        "precio": 1300,
+        "categoria": "Desarrollo web"
+    },
+    {
+        "nombre": "React",
+        "precio": 1400,
+        "categoria": "Desarrollo web"
+    },
+    {
+        "nombre": "WordPress",
+        "precio": 1500,
+        "categoria": "Desarrollo web"
+    },
+    {
+        "nombre": "React",
+        "precio": 1600,
+        "categoria": "Desarrollo web"
+    }
+]
+
